@@ -1,0 +1,2 @@
+C:\Users\naifa\source\repos\MVC_Entity_App\MVC_Entity_App\obj\Debug\MVC_Entity_App.csproj.AssemblyReference.cache
+C:\Users\naifa\source\repos\MVC_Entity_App\MVC_Entity_App\obj\Debug\MVC_Entity_App.csproj.CoreCompileInputs.cache

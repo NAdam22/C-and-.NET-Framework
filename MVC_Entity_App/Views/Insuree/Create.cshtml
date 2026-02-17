@@ -1,0 +1,33 @@
+﻿@model MVC_Entity_App.Models.Insuree
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create Insuree</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+
+        @Html.EditorFor(model => model.FirstName)
+        @Html.EditorFor(model => model.LastName)
+        @Html.EditorFor(model => model.EmailAddress)
+        @Html.EditorFor(model => model.DateOfBirth)
+        @Html.EditorFor(model => model.CarYear)
+        @Html.EditorFor(model => model.CarMake)
+        @Html.EditorFor(model => model.CarModel)
+        @Html.EditorFor(model => model.SpeedingTickets)
+        @Html.EditorFor(model => model.DUI)
+        @Html.EditorFor(model => model.CoverageType)
+
+        <!-- Quote field intentionally removed -->
+
+        <div class="form-group">
+            <input type="submit" value="Create" class="btn btn-default" />
+        </div>
+    </div>
+}
