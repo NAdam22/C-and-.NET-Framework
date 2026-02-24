@@ -5,7 +5,7 @@ as part of my software development training.
 
 ## Projects
 
-### Car Insurance
+### Car Insurance 
 
 An ASP.NET MVC web application that simulates a car insurance quote system.
 
