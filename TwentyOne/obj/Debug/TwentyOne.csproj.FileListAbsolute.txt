@@ -1,0 +1,10 @@
+C:\Users\naifa\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\naifa\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\naifa\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\naifa\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\naifa\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\naifa\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\naifa\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\naifa\source\repos\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\naifa\source\repos\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\naifa\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
